@@ -16,15 +16,15 @@ dependencies:
 
   flutter_background_service_platform_interface:
     git:
-      url: https://github.com/ExpTechTW/flutter_background_service.git
+      url: https://github.com/yayacat/flutter_background_service.git
       path: packages/flutter_background_service_platform_interface
   flutter_background_service_ios:
     git:
-      url: https://github.com/ExpTechTW/flutter_background_service.git
+      url: https://github.com/yayacat/flutter_background_service.git
       path: packages/flutter_background_service_ios
   flutter_background_service_android:
     git:
-      url: https://github.com/ExpTechTW/flutter_background_service.git
+      url: https://github.com/yayacat/flutter_background_service.git
       path: packages/flutter_background_service_android
 dev_dependencies:
   flutter_test:
