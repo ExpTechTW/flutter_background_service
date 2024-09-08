@@ -165,7 +165,7 @@ public class BackgroundService extends Service implements MethodChannel.MethodCa
             PendingIntent pi = PendingIntent.getActivity(BackgroundService.this, 11, i, flags);
             NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this, notificationChannelId)
                     .setSmallIcon(R.drawable.ic_launcher_round)
-                    .setColor(#00000000)
+                    .setColor(0x00000000)
                     .setAutoCancel(true)
                     .setOngoing(true)
                     .setContentTitle(notificationTitle)
