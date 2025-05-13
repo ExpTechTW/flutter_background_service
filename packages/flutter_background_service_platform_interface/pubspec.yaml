@@ -1,6 +1,6 @@
 name: flutter_background_service_platform_interface
 description: A platform interface for flutter background service.
-version: 5.1.1
+version: 5.1.2
 repository: https://github.com/ekasetiawans/flutter_background_service
 
 environment:
@@ -23,7 +23,7 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
+# flutter:
 
   # To add assets to your package, add an assets section, like this:
   # assets:

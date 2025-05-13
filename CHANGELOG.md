@@ -3,6 +3,64 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-08-25
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`flutter_background_service_platform_interface` - `v5.1.2`](#flutter_background_service_platform_interface---v512)
+ - [`flutter_background_service` - `v5.0.9`](#flutter_background_service---v509)
+ - [`flutter_background_service_android` - `v6.2.6`](#flutter_background_service_android---v626)
+ - [`flutter_background_service_ios` - `v5.0.3`](#flutter_background_service_ios---v503)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `flutter_background_service` - `v5.0.9`
+ - `flutter_background_service_android` - `v6.2.6`
+ - `flutter_background_service_ios` - `v5.0.3`
+
+---
+
+#### `flutter_background_service_platform_interface` - `v5.1.2`
+
+ - **FIX**: fix lints. ([95186405](https://github.com/ekasetiawans/flutter_background_service/commit/95186405f2d60112ff83956bce345ebbbc332ad7))
+
+
+## 2024-08-25
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`flutter_background_service` - `v5.0.8`](#flutter_background_service---v508)
+ - [`flutter_background_service_android` - `v6.2.5`](#flutter_background_service_android---v625)
+
+---
+
+#### `flutter_background_service` - `v5.0.8`
+
+ - **FIX**: lints. ([7b63fca4](https://github.com/ekasetiawans/flutter_background_service/commit/7b63fca4e97941b2891570bd80701c7bb98cda23))
+
+#### `flutter_background_service_android` - `v6.2.5`
+
+ - **FIX**: lints. ([7b63fca4](https://github.com/ekasetiawans/flutter_background_service/commit/7b63fca4e97941b2891570bd80701c7bb98cda23))
+
+
 ## 2024-08-03
 
 ### Changes
